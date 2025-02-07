@@ -1,6 +1,6 @@
 # Ink Drawing Effect in Unity
 
-[![Video Showcase](./videos/Inkshader_Showcase.mp4)]
+[![Video Showcase](./Videos/Inkshader_Showcase.mp4)]
 
 This project is a showcase of an ink drawing effect that I created on Unity, that can be applied to any 3D scene. The ink effect is created as 2 pieces of shader code applied as a full-screen render feature on the Universal Render Pipeline.
 
